@@ -21,18 +21,18 @@ I'm a Front-End Developer who loves turning complex problems into beautiful, res
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,sass,bootstrap,figma,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,vscode" />
 </p>
 
 ---
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[یوزرنیم_تو]&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[zahrabedi82]&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[یوزرنیم_تو]&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[zahrabedi82]&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -47,12 +47,3 @@ I'm a Front-End Developer who loves turning complex problems into beautiful, res
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
