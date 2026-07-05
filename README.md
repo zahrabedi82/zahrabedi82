@@ -1,10 +1,14 @@
 ## Hi there Im Zahra 👋
 
 
-### 💻 Front-End Developer | 
+### 💻 Front-End Developer
+
+React • Next.js • JavaScript
+
+Building Modern & Responsive Web Applications 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=[zahrabedi82]&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=zahrabedi82&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
