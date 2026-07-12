@@ -43,12 +43,8 @@ I'm a Front-End Developer who loves turning complex problems into beautiful, res
 
 ### 🌐 Socials & Portfolio
 
+## 🌐 Socials & Portfolio
 
-### ✍️ Coding Quote
-
-
-**zahrabedi82/zahrabedi82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-https://zahrabedi82.github.io/portfolio/
-
+- 🌍 Portfolio: https://zahrabedi82.github.io/portfolio/
+- 💼 LinkedIn: https://linkedin.com/in/zahra-abedi82
+- 📧 Email: zahra.abedi8262@gmail.com
