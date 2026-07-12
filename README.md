@@ -45,7 +45,7 @@ I'm a Front-End Developer who loves turning complex problems into beautiful, res
 
 
 ### ✍️ Coding Quote
-> "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
+
 
 **zahrabedi82/zahrabedi82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
