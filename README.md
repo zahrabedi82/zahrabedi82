@@ -41,8 +41,6 @@ I'm a Front-End Developer who loves turning complex problems into beautiful, res
 
 ---
 
-### 🌐 Socials & Portfolio
-
 ## 🌐 Socials & Portfolio
 
 - 🌍 Portfolio: https://zahrabedi82.github.io/portfolio/
