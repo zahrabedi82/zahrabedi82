@@ -41,7 +41,7 @@ I'm a Front-End Developer who loves turning complex problems into beautiful, res
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zahrabedi82/zahrabedi82/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
+  <img src="https://raw.githubusercontent.com/zahrabedi82/zahrabedi82/output/pacman-contribution-graph-dark.svg" />
 </p>
 
 
