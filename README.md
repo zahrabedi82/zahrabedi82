@@ -40,11 +40,7 @@ I'm a Front-End Developer who loves turning complex problems into beautiful, res
 </p>
 
 ---
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/zahrabedi82/zahrabedi82/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 ## 🌐 Socials & Portfolio
 
