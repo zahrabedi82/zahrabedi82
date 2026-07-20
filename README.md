@@ -36,7 +36,7 @@ I'm a Front-End Developer who loves turning complex problems into beautiful, res
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[zahrabedi82]&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zahrabedi82&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 ---
