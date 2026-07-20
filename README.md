@@ -17,7 +17,7 @@ Building Modern & Responsive Web Applications
 I'm a Front-End Developer who loves turning complex problems into beautiful, responsive, and user-friendly designs. My goal is to build web applications that provide a seamless experience for users.
 
 - 🎨 **Focusing on:** Modern UI/UX and Performance Optimization.
-- 📚 **Learning:** [Next.js]
+- 📚 **Learning:** Next.js
 - 💬 **Ask me about:** Html, JavaScript,React, TailWind, and CSS architectures.
 - 📩 **Contact me:** [zahra.abedi8262@gmail.com]
 
