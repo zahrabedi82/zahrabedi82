@@ -31,7 +31,7 @@ I'm a Front-End Developer who loves turning complex problems into beautiful, res
 ---
 
 ### 📊 GitHub Activity
-<!--
+<
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[zahrabedi82]&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
@@ -39,7 +39,7 @@ I'm a Front-End Developer who loves turning complex problems into beautiful, res
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[zahrabedi82]&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
--->
+>
 
 ---
 <p align="center">
